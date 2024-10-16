@@ -39,3 +39,4 @@ jobs:
           cd .github/workflows
           chmod +x script.sh
           ls -al
+          ./script.sh
